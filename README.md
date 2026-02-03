@@ -284,6 +284,13 @@ chemical-equipment-visualizer/
 | POST | `/api/reports/generate/` | Generate PDF report |
 
 ---
+## Implementation
+<img width="1909" height="864" alt="image" src="https://github.com/user-attachments/assets/cc13539e-8178-4dfd-b145-33b6a7de0122" />
+<img width="1873" height="860" alt="image" src="https://github.com/user-attachments/assets/00740f65-91c3-4c53-acb0-2ff8c08eb5be" />
+<img width="561" height="792" alt="image" src="https://github.com/user-attachments/assets/aeb50214-e6ed-48f2-a0e9-bb27a0fb2a49" />
+<img width="976" height="594" alt="image" src="https://github.com/user-attachments/assets/a815b08c-ba36-49a3-8361-2241b4c868f2" />
+<img width="1686" height="717" alt="image" src="https://github.com/user-attachments/assets/9f3b0121-5637-406f-898b-d9f06c0d375b" />
+
 
 ##  Development Guide
 
