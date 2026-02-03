@@ -5,11 +5,12 @@ from rest_framework.response import Response
 from django.http import FileResponse
 
 from .models import Dataset
-from .utils import analyze_csv, generate_pdf
+from .utils import analyze_csv
+from .pdf import  generate_pdf
 
 
 from .models import Dataset
-from .utils import analyze_csv, generate_pdf, password_protect_pdf
+from .utils import analyze_csv, password_protect_pdf
 
 
 

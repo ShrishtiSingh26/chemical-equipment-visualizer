@@ -1,4 +1,4 @@
-const API_BASE = "https://chemical-equipment-visualizer-g2lx.onrender.com/";
+const API_BASE = "http://127.0.0.1:8000";
 
 // demo credentials
 const USERNAME = "admin";
